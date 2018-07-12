@@ -23,7 +23,7 @@ def weather_report(weather)
     "The weather in #{weather[:city]} is #{weather[:description]}. The temperature is #{weather[:temperature_farenheit]} degrees Farenheit."
   end 
 end 
-weather_report
+
 
 
 #4. Write a method that takes in the weather hash as an argument. 
